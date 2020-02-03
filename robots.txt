@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aiyeneiyu.fraud.ai/sitemap.xml
